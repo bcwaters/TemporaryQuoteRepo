@@ -173,7 +173,7 @@ These pictures show the main issues that need fixing:
 ---
 
 ### 6. Sagging Deck View
-![Sagging Deck View](SaggingDeckView.jpg)
+![Sagging Deck View](SaggingDeckTopView.jpg)
 
 **Problem:** The deck surface is visibly sagging, indicating structural failure in the joist system and support structure.
 
