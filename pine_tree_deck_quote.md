@@ -172,16 +172,3 @@ These pictures show the main issues that need fixing:
 
 ---
 
-## Work Order
-
-Based on the photos, here's what I'll tackle first:
-
-1. **Safety first:** Fix rim joists and straighten support posts
-2. **Structure:** Replace joists and add beam support
-3. **Finish up:** Straighten railing and final adjustments
-
----
-
-## Quality
-
-All repairs will meet building codes and safety standards. Using treated lumber and proper fasteners will make sure this doesn't happen again. 
