@@ -1,20 +1,20 @@
-# Deck Repair Quote
+# Pine Tree Deck Fix
 **Property:** Pine Tree  
 **Project:** Deck Repair  
 
+---
+
+## What needs to be done
+
+The deck at Pine Tree needs some serious work. The joists are rotting, posts are leaning, and the railing is crooked. Here's what needs to be fixed
 
 ---
 
-## Project Overview
-Deck repair and structural reinforcement for the Pine Tree property. This project addresses structural issues and ensures the deck meets safety standards.
+## Work Breakdown
 
----
+### 1. Replace Outer Joists (for railing support)
 
-## Scope of Work
-
-### 1. Replace All Outer Joists to Fix Railing
-
-#### Materials
+#### Materials needed
 - Treated 2x8 joists (Four 12 foot, 2 8ft, 2 10ft)
   - 4 × 12ft = 48ft
   - 2 × 8ft = 16ft  
@@ -25,93 +25,93 @@ Deck repair and structural reinforcement for the Pine Tree property. This projec
 - Structural screws
 - **Materials Cost:** $150
 
-#### Labor
+#### Work involved
 - Remove existing outer joists
 - Install new treated joists
 - Secure with proper fasteners
 - **Labor Cost:** 2 days
 
-**Subtotal:** $150 + 2 days
+**Total:** $150 + 2 days
 
 ---
 
-### 2. Replace 6 Inner Joists for Final Section
+### 2. Replace 6 Inner Joists
 
-#### Materials
+#### Materials needed
 - Treated 2x8 joists (6 12ft pieces) $18 dollar a board total $108
 - Joist hangers - 2 hangers per board (optional but suggested) $45
 - **Materials Cost:** $150
 
-#### Labor
+#### Work involved
 - Remove damaged inner joists
 - Install new joists with proper spacing
-- Ensure level alignment
+- Make sure everything is level
 - Secure all connections
 - **Labor Cost:** 2 days
 
-**Subtotal:** $150 + 2 days
+**Total:** $150 + 2 days
 
 ---
 
-### 3. Add Additional Beam to Support Long Span
+### 3. Add Support Beam for Long Span
 
-#### Materials
+#### Materials needed
 - Treated 2 sistered 2x8 $30
 - 3 4x4 posts ~$30
 - Beam brackets and hardware (optional but nice to have) ~$80
 - Concrete footings 3 bags of concrete or 3 prepoured piers $20
 - **Materials Cost:** $160
 
-#### Labor
+#### Work involved
 - Install support posts (if needed)
-- Position and secure new beam
+- Put in new beam
 - Connect to existing structure
 - **Labor Cost:** 2 days
 
-**Subtotal:** $160 + 2 days
+**Total:** $160 + 2 days
 
 ---
 
-### 4. Straighten/Replace All Support Posts (~10)
+### 4. Fix Support Posts (~10 posts)
 
-#### Materials
+#### Materials needed
 - Treated 4x4 or 6x6 posts (10 pieces) ~$100
 - Post bases and hardware  ~$25
 - **Materials Cost:** $125
 
-#### Labor
-- Assess current post conditions
-- Straighten salvageable posts
-- Replace damaged posts
-- Ensure proper alignment and support
+#### Work involved
+- Check current post conditions
+- Straighten posts that can be saved
+- Replace bad posts
+- Make sure everything is straight and solid
 - **Labor Cost:** 2 days
 
-**Subtotal:** $125 + 2 days
+**Total:** $125 + 2 days
 
 ---
 
-### 5. Straighten All Railing
+### 5. Fix Railing
 
-#### Materials
+#### Materials needed
  4 2x8 to replace rotted supports $50
- Bolts, stuctural screws, and lag screws $50
+ Bolts, structural screws, and lag screws $50
 - **Materials Cost:** $100
 
-#### Labor
-- Straighten and align all railing sections
-- Secure loose connections
-- Ensure proper height and spacing
+#### Work involved
+- Straighten all railing sections
+- Tighten loose connections
+- Make sure height and spacing is right
 
 - **Labor Cost:** 1 day
 
-**Subtotal:** $100 + 1 day
+**Total:** $100 + 1 day
 
 ---
 
 ## Summary
 
-| Item | Materials | Labor | Subtotal |
-|------|-----------|-------|----------|
+| Item | Materials | Labor | Total |
+|------|-----------|-------|-------|
 | Outer Joist Replacement | $150 | 2 days | $150 + 2 days |
 | Inner Joist Replacement | $150 | 2 days | $150 + 2 days |
 | Additional Support Beam | $160 | 2 days | $160 + 2 days |
@@ -119,57 +119,69 @@ Deck repair and structural reinforcement for the Pine Tree property. This projec
 | Railing Straightening | $100 | 1 day | $100 + 1 day |
 | **TOTAL** | **$685** | **9 days** | **$685 + 9 days** |
 
+---
 
+# Photos of Current Problems
 
+## What's wrong with the deck
 
-# Visual Documentation & Reference
-
-## Current Condition Assessment
-
-The following images document the current condition of the Pine Tree deck and illustrate the specific issues that need to be addressed:
+These pictures show the main issues that need fixing:
 
 ### 1. Rim Joist Water Damage
 ![Rim Joist Water Damage](RimJoistsWaterDamageCause.jpg)
 
-**Issue:** Significant water damage to rim joists causing structural compromise and safety concerns.
+**Problem:** The fascia was installed onto the rim joist in a manner that holds water and has caused rot.
 
-**Solution:** Complete replacement of damaged rim joists with treated lumber and proper waterproofing.
+**Fix:** Replace all damaged rim joists with treated lumber, reinstall fascia to sit below the deck boards so water is less prove to sit on joist
 
 ---
 
 ### 2. Split Joists
 ![Split Joists](SplitJoists.jpg)
 
-**Issue:** Multiple joists showing severe splitting and structural failure.
+**Problem:** Several joists are split and broken.
 
-**Solution:** Replacement of all compromised joists to restore structural integrity.
+**Fix:** Replace all broken joists.  Add additional support beam to the middle of section to reduce stress on the long span
 
 ---
 
 ### 3. Joist Alignment and Lean
 ![Joist and Lean Issues](JoistsAndLean.jpg)
 
-**Issue:** Joists showing improper alignment and leaning, indicating foundation and support problems.
+**Problem:** Joists are crooked and leaning, which means the foundation has issues.
 
-**Solution:** Straightening and reinforcement of joist system with additional support as needed.
+**Fix:** Straighten joists and add support where needed.
 
 ---
 
 ### 4. Leaning Support Posts
 ![Leaning Support Posts](LeaningSuppports.jpg)
 
-**Issue:** Support posts showing significant lean, compromising overall deck stability.
+**Problem:** Support posts are leaning, making the whole deck unstable.
 
-**Solution:** Straightening of salvageable posts and replacement of severely compromised ones.
+**Fix:** Straighten posts that can be saved, replace the bad ones.
 
 ---
 
 ### 5. General Joist Condition
 ![General Joist Overview](Joists.jpg)
 
-**Issue:** Overall deterioration of joist system requiring comprehensive repair.
+**Problem:** Overall, the joist system is falling apart.
 
-**Solution:** Systematic replacement and reinforcement of the entire joist structure.
+**Fix:** Replace and reinforce the whole joist structure.
 
 ---
 
+## Work Order
+
+Based on the photos, here's what I'll tackle first:
+
+1. **Safety first:** Fix rim joists and straighten support posts
+2. **Structure:** Replace joists and add beam support
+3. **Finish up:** Straighten railing and final adjustments
+
+---
+
+## Quality
+
+All repairs will meet building codes and safety standards. Using treated lumber and proper fasteners will make sure this doesn't happen again. 
